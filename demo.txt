@@ -1,1 +1,2 @@
-mkdir demo.txt  git init 
+mokdir demo.txt  git init 
+nihao wu lai wan le
