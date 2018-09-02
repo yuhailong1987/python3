@@ -1,2 +1,3 @@
 mokdir demo.txt  git init 
 nihao wu lai wan le
+lai lai yi qi wang
